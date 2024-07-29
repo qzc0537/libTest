@@ -46,7 +46,7 @@ afterEvaluate {
             from components.findByName(variant.name)
             groupId = 'com.rhizo'
             artifactId = 'libtest'
-            version = '1.0.0'
+            version = '1.0.1'
         }
     }
 }
